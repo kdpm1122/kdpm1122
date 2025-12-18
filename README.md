@@ -1,6 +1,4 @@
 ![ClipWindowsGIF](https://github.com/user-attachments/assets/77a76325-eea2-4134-b2ab-28c1ed7429a5) 
-![GhostCallOfDutyGhostGIF](https://github.com/user-attachments/assets/e956b01e-e16a-4799-9f1f-d0dd48f136fa) 
-
 
 
 <h1 align="center">
@@ -51,6 +49,7 @@
 - Calculadoras
 - Analisis de datos / movilidad en bogota
 
+![GhostCallOfDutyGhostGIF](https://github.com/user-attachments/assets/e956b01e-e16a-4799-9f1f-d0dd48f136fa) 
 
 ### 🎯 Objetivo
 Seguir mejorando mis habilidades para trabajar como desarrollador y participar en proyectos reales.

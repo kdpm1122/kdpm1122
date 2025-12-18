@@ -1,4 +1,7 @@
+<img src=\"banner.gif\" width=\"100%\" />
+
 # 👋 Hola, soy Kevin Perez
+
 
 
 💻 Estudiante de desarrollo de software en Colombia.

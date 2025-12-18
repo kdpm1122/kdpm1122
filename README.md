@@ -1,5 +1,4 @@
-
-![PlayingArcadeVideoGamesMordecaiGIF](https://github.com/user-attachments/assets/d5934782-e5b2-4a74-8aa3-4254b684f9e0)
+![PlayingArcadeVideoGamesMordecaiGIF (2)](https://github.com/user-attachments/assets/ae185470-e1f9-446b-aece-ae379452aa96)
 
 
 <h1 align="center">

@@ -1,52 +1,24 @@
-<!-- Banner compacto, profesional y elegante para GitHub -->
-<!-- Altura reducida para que NO se extienda -->
-<!-- Guarda como banner.svg -->
+<h1 align="center">
+🎶  Kevin perez  🎶
+</h1>
 
-<svg width="1200" height="160" viewBox="0 0 1200 160" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0d1117" />
-      <stop offset="100%" stop-color="#161b22" />
-    </linearGradient>
+<h3 align="center">
+  Code • Logic • futbol • Anime 
+</h3>
 
-    <filter id="softGlow">
-      <feGaussianBlur stdDeviation="2" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
-  </defs>
+<p align="center">
+  <i>Learning today, building tomorrow</i>
+</p>
 
-  <!-- Fondo -->
-  <rect width="1200" height="160" fill="url(#bg)" rx="14" />
+<hr>
 
-  <!-- Línea superior minimal -->
-  <rect x="0" y="0" width="1200" height="3" fill="#238636" />
+<p align="center">
+  🧠 ADSO &nbsp;•&nbsp;
+  💻 Software Development &nbsp;•&nbsp;
+  🙌 Discipline & Teamwork
+</p>
 
-  <!-- Nombre -->
-  <text
-    x="600"
-    y="95"
-    text-anchor="middle"
-    font-size="36"
-    fill="#e6edf3"
-    font-family="Inter, Segoe UI, Roboto, sans-serif"
-    filter="url(#softGlow)">
-    Kevin Perez
-  </text>
-
-  <!-- Subtítulo corto -->
-  <text
-    x="600"
-    y="125"
-    text-anchor="middle"
-    font-size="16"
-    fill="#9da7b1"
-    font-family="Inter, Segoe UI, Roboto, sans-serif">
-    Software Development Student
-  </text>
-</svg>
+<hr>
 # 👋 Hola, soy Kevin Perez
 
 

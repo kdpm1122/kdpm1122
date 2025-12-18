@@ -1,9 +1,11 @@
+
 ![ClipWindowsGIF](https://github.com/user-attachments/assets/77a76325-eea2-4134-b2ab-28c1ed7429a5) 
 
 
 <h1 align="center">
 🎶  Kevin perez  🎶
 </h1>
+![PlayingArcadeVideoGamesMordecaiGIF](https://github.com/user-attachments/assets/d5934782-e5b2-4a74-8aa3-4254b684f9e0)
 
 <h3 align="center">
   Code • Logic • futbol • Anime 

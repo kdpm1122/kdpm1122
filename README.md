@@ -1,3 +1,5 @@
+![ClipWindowsGIF](https://github.com/user-attachments/assets/77a76325-eea2-4134-b2ab-28c1ed7429a5)
+
 <h1 align="center">
 🎶  Kevin perez  🎶
 </h1>

@@ -1,5 +1,5 @@
 <h1 aling="center" 
- ![PlayingArcadeVideoGamesMordecaiGIF](https://github.com/user-attachments/assets/d5934782-e5b2-4a74-8aa3-4254b684f9e0)
+![PlayingArcadeVideoGamesMordecaiGIF](https://github.com/user-attachments/assets/d5934782-e5b2-4a74-8aa3-4254b684f9e0)
 </h1>
 
 
@@ -51,7 +51,6 @@
 - Calculadoras
 - Analisis de datos / movilidad en bogota
 
-![GhostCallOfDutyGhostGIF](https://github.com/user-attachments/assets/e956b01e-e16a-4799-9f1f-d0dd48f136fa) 
 
 ### 🎯 Objetivo
 Seguir mejorando mis habilidades para trabajar como desarrollador y participar en proyectos reales.

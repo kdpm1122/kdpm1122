@@ -1,6 +1,5 @@
-<h1 aling="center" 
+
 ![PlayingArcadeVideoGamesMordecaiGIF](https://github.com/user-attachments/assets/d5934782-e5b2-4a74-8aa3-4254b684f9e0)
-</h1>
 
 
 <h1 align="center">

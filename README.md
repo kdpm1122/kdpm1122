@@ -1,4 +1,4 @@
-<img src=\"banner.gif\" width=\"100%\" />
+<img src="https://img.shields.io/badge/PSeInt-purple?style=for-the-badge" />
 
 # 👋 Hola, soy Kevin Perez
 

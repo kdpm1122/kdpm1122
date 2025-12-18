@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hola, soy Kevin Perez
 
-<!--
-**kdpm1122/kdpm1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💻 Estudiante de desarrollo de software en Colombia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🚀 Tecnologías que estoy aprendiendo
+- HTML
+- SQL
+- Javascript
+- Lógica de programación
+- Git & GitHub
+
+
+### 📂 Proyectos destacados
+- 📊 Bases de datos académicas
+- 🎮 Juegos de lógica en consola
+- Calculadoras
+- Analisis de datos / movilidad en bogota
+
+
+### 🎯 Objetivo
+Seguir mejorando mis habilidades para trabajar como desarrollador y participar en proyectos reales.
+
+
+---
+⭐ Siempre aprendiendo
